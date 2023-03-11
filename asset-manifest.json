@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GymArabic/static/css/main.a2dda715.css",
+    "main.js": "/GymArabic/static/js/main.bba4faaf.js",
+    "static/media/remixicon.svg?t=1590207869815": "/GymArabic/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/GymArabic/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/GymArabic/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/trainer.png": "/GymArabic/static/media/trainer.edf81b6993ba0205e290.png",
+    "static/media/gym-02.png": "/GymArabic/static/media/gym-02.06fd85c2c7a9d0f48978.png",
+    "static/media/remixicon.woff?t=1590207869815": "/GymArabic/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/avatar02.png": "/GymArabic/static/media/avatar02.43d3323871cb17add5e2.png",
+    "static/media/remixicon.woff2?t=1590207869815": "/GymArabic/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/avatar01.png": "/GymArabic/static/media/avatar01.712b9be90c75dec89232.png",
+    "index.html": "/GymArabic/index.html",
+    "main.a2dda715.css.map": "/GymArabic/static/css/main.a2dda715.css.map",
+    "main.bba4faaf.js.map": "/GymArabic/static/js/main.bba4faaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2dda715.css",
+    "static/js/main.bba4faaf.js"
+  ]
+}
